@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:52.260309
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:05
 #+TITLE: 僧伽和尚欲入涅槃說六度經
 #+PROPERTY: CBETA_ID T85n2920
 #+PROPERTY: ID KR6u0057
