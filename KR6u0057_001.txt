@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:52.260309
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:05
 #+TITLE: 僧伽和尚欲入涅槃說六度經
 #+PROPERTY: CBETA_ID T85n2920
 #+PROPERTY: ID KR6u0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2920
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0057_T_000-1463b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0057_T_001-1463b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2920¶
-
- 僧伽和尚欲入涅槃說六度經¶
+No. 2920¶
+僧伽和尚欲入涅槃說六度經¶
 ¶
 
 吾告於閻浮提中善男子善女人。吾自生閻¶
